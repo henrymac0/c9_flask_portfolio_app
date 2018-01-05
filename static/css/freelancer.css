@@ -16,7 +16,7 @@ p.small {
 a,
 a:hover,
 a:focus,
-a:active,
+a:ac
 a.active {
   color: #18BC9C;
 }
@@ -67,8 +67,8 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 header {
-  text-align: center;
-  background: #176fbc;
+  text-align: left;
+  background: #09f9ed;
   color: red;
 }
 header .container {
