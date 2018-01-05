@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
 def home_page():
-	return render_template('index.html')
+	return render_template('contact.html')
 
 @app.route('/<name>')
 def profile(name):
